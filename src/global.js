@@ -33,7 +33,7 @@ export const Services = [
   },
   {
     "subtitle": "Brake Caliper Customisation",
-    "image": "caliper.webp",
+    "image": "b.jpg",
     "coverage": [
       "Professional brake caliper painting and refinishing",
       "High-temperature, heat-resistant coatings",
